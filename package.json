@@ -1,0 +1,18 @@
+{
+  "nome" : "projetoMercado" ,
+  "versão" : " 1.0.0 " ,
+  "descrição" : " " ,
+  "principal" : " index.js " ,
+  "scripts" : {
+    "test" : " echo \" Erro: nenhum teste especificado \" && exit 1 "
+  },
+  "palavras-chave" : [],
+  "autor" : " " ,
+  "licença" : " ISC " ,
+  "dependências" : {
+    "cipreste" : " ^10.4.0 " ,
+    "cypress-grep" : " ^3.0.2 " ,
+    "eslint" : " ^8.22.0 " ,
+    "eslint-plugin-cypress" : " ^2.12.1 "
+  }
+}
